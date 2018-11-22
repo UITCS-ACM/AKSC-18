@@ -1,0 +1,46 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	background-color: black;
+	color: white;
+}
+#news{
+	font-family: calibiri;
+	width: 90%;
+	margin:0 auto;
+}
+section div .news-text{
+	font-size: 30px;
+	width: 10%;
+	border-right: solid #0093D0 3px;
+	color: #0093D0;
+	padding: 5px 10px 5px 0;
+	margin: 5px 10px;
+}
+section div article{
+	width: 40%;
+	padding: 5px 15px;
+	float: left;
+	margin-left: 5.5%;
+}
+.news-title{
+	padding: 5px 0 5px 0;
+	color: #0093D0;
+	font-weight: bold;
+	font-size: 22px;
+}
+#news div article footer p{
+	padding: 7px 0 7px 2%;
+	color: darkgray;
+	font-size: 16px;
+	line-height: 16px;
+	font-style: italic;
+}
+#news div article content p{
+	padding: 9px 10px;
+	text-indent: 40px;
+	font-size: 20px;
+	line-height: 1.3;
+}
